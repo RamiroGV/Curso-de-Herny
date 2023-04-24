@@ -1,2 +1,2 @@
-# Curso-de-Herny
-Este es un modelo de prueba
+ESte proyecto es una prueba
+
